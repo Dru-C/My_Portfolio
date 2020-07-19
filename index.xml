@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dru Cregar</title>
+    <link>https://Dru-C.github.io/My_Portfolio/</link>
+    <description>Recent content on Dru Cregar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jul 2020 10:58:08 -0401</lastBuildDate>
+    
+	<atom:link href="https://Dru-C.github.io/My_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chapter V: Seriously, you want me to add another one</title>
+      <link>https://Dru-C.github.io/My_Portfolio/post/project-5/</link>
+      <pubDate>Sat, 18 Jul 2020 10:58:08 -0401</pubDate>
+      
+      <guid>https://Dru-C.github.io/My_Portfolio/post/project-5/</guid>
+      <description>Add a picture. Add a description. Add some more bullet points.    Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 1: I&#39;ll add something</title>
+      <link>https://Dru-C.github.io/My_Portfolio/post/project-1/</link>
+      <pubDate>Sat, 18 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://Dru-C.github.io/My_Portfolio/post/project-1/</guid>
+      <description>Add a picture. Add a description. Add some more bullet points.    Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project II: I&#39;ll add something else</title>
+      <link>https://Dru-C.github.io/My_Portfolio/post/project-2/</link>
+      <pubDate>Sat, 18 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://Dru-C.github.io/My_Portfolio/post/project-2/</guid>
+      <description>Add a picture. Add a description. Add some more bullet points.    Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project III: I&#39;ll add something different</title>
+      <link>https://Dru-C.github.io/My_Portfolio/post/project-3/</link>
+      <pubDate>Sat, 18 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://Dru-C.github.io/My_Portfolio/post/project-3/</guid>
+      <description>Add a picture. Add a description. Add some more bullet points.    Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project IV: I&#39;ll add something if I feel like it</title>
+      <link>https://Dru-C.github.io/My_Portfolio/post/project-4/</link>
+      <pubDate>Sat, 18 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://Dru-C.github.io/My_Portfolio/post/project-4/</guid>
+      <description>Add a picture. Add a description. Add some more bullet points.    Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project VI: Whats wrong with you people</title>
+      <link>https://Dru-C.github.io/My_Portfolio/post/project-6/</link>
+      <pubDate>Sat, 18 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://Dru-C.github.io/My_Portfolio/post/project-6/</guid>
+      <description>Add a picture. Add a description. Add some more bullet points.    Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://Dru-C.github.io/My_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Dru-C.github.io/My_Portfolio/contact/</guid>
+      <description>Follow me on these social media platforms
+   Platform URL     Linkedin: https://www.linkedin.com/in/dru-cregar-524bb6108/   GitHub: https://github.com/Dru-C   Kaggle: https://www.kaggle.com/drucregar   Facebook: https://www.facebook.com/dru.cregar   Twitter: https://www.facebook.com/dru.cregar   Website: https://www.facebook.com/dru.cregar   YouTube: https://www.youtube.com/channel/UCYXh7sR7w_lMY0Rj3BoAXPA?view_as=subscriber    </description>
+    </item>
+    
+  </channel>
+</rss>

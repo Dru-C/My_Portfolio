@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Dru Cregar</title>
+    <link>https://Dru-C.github.io/My_Portfolio/tags/scene/</link>
+    <description>Recent content in scene on Dru Cregar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jul 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://Dru-C.github.io/My_Portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project IV: I&#39;ll add something if I feel like it</title>
+      <link>https://Dru-C.github.io/My_Portfolio/post/project-4/</link>
+      <pubDate>Sat, 18 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://Dru-C.github.io/My_Portfolio/post/project-4/</guid>
+      <description>Add a picture. Add a description. Add some more bullet points.    Link to Github Repository</description>
+    </item>
+    
+  </channel>
+</rss>
